@@ -1,7 +1,16 @@
 table {
-    width: 100%;
+  width: 160px;
+  /* padding: 8% 0 0; */
+  margin: auto;
+  padding: 4%;
+  background-color: rgb(171, 209, 171);
+  /* margin-left: 20px; */
   }
-  
+
+.tableA{
+  background-color: rgb(128, 158, 128);
+}
+ 
   /* th.mat-sort-header-sorted {
     color: black;
   } */
