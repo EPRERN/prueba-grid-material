@@ -1,4 +1,4 @@
-/* table {
+table {
   width: 160px;
   /* padding: 8% 0 0; */
   margin: auto;
@@ -9,7 +9,7 @@
 
 .tableA{
   background-color: rgb(128, 158, 128);
-} */
+}
  
   /* th.mat-sort-header-sorted {
     color: black;
