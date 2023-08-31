@@ -8,11 +8,15 @@ import {MatButtonModule} from '@angular/material/button';
 import {MatTableModule} from '@angular/material/table'; 
 import { MatSortModule } from '@angular/material/sort';
 import {MatPaginator, MatPaginatorModule} from '@angular/material/paginator';
+import { LoginComponent } from './login/login.component';
+
+
+
 
 
 @NgModule({
   declarations: [
-    AppComponent,
+    AppComponent,LoginComponent    
 
   ],
   imports: [
